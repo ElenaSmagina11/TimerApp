@@ -1,3 +1,4 @@
+Technologien: Swing, multithr...java.Timer.api....chetootam
 # TimerApp
  Die Pomodoro-Technik  ist eine Methode des Zeitmanagements zur effektiven Arbeit-Erholung Balance.
  Der Benutzer kann:
